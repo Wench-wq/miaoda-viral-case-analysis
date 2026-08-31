@@ -1,0 +1,7 @@
+interface:
+  display_name: "妙搭爆款案例分析"
+  short_description: "检索妙搭案例并生成爆款拆解PDF"
+  brand_color: "#7B4DFF"
+  default_prompt: "Use $miaoda-viral-case-analysis to拆解一个爆款视频案例，并输出包含抽帧图、爆款内容分析和前3秒口播参考的PDF。"
+policy:
+  allow_implicit_invocation: true
